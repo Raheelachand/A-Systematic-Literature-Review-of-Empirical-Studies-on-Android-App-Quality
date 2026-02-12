@@ -95,10 +95,11 @@ Chand, R., et al. (2026).
 A Systematic Literature Review of Empirical Studies on Android App Quality: Taxonomy, Challenges, Solutions and Future Directions.
 [Journal Name – under review].
 
-Zenodo archive DOI: [To be added]
+Zenodo archive DOI: https://doi.org/10.5281/zenodo.18621632
 
 
 ### License
 
 
 This repository is distributed under the MIT License.
+
