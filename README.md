@@ -84,7 +84,7 @@ This repository provides full transparency of the review process, including:
 - Inter-rater reliability computation scripts
 - The archival version of this replication package is available via Zenodo:
 
-DOI: [To be added after Zenodo archiving]
+DOI: https://doi.org/10.5281/zenodo.18621632
 
 
 ### Citation
@@ -102,4 +102,5 @@ Zenodo archive DOI: https://doi.org/10.5281/zenodo.18621632
 
 
 This repository is distributed under the MIT License.
+
 
