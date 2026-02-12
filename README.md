@@ -37,8 +37,6 @@ requirements.txt
 ---
 
 
----
-
 ## What This Package Contains
 
 - Executed search queries for all databases
@@ -101,5 +99,6 @@ Zenodo archive DOI: [To be added]
 
 
 ### License
+
 
 This repository is distributed under the MIT License.
