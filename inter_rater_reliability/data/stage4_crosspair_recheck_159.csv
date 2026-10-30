@@ -1,0 +1,160 @@
+record_id,r1_include,r1_QAC1,r1_QAC2,r1_QAC3,r1_QAC4,r1_QAC5,r1_QAC6,r1_characteristics,r2_include,r2_QAC1,r2_QAC2,r2_QAC3,r2_QAC4,r2_QAC5,r2_QAC6,r2_characteristics
+R00121,Y,1,1,1,1,1,1,Security; Performance efficiency; Usability,Y,1,1,1,1,1,1,Security; Performance efficiency
+R00387,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R00709,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,0.5,1,Security
+R00874,Y,1,1,1,1,0.5,1,Reliability,Y,1,1,1,1,0.5,1,Reliability; Maintainability
+R01392,Y,1,1,1,1,1,1,Maintainability; Reliability,N,1,1,1,1,0.5,0.5,Reliability
+R01469,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R01713,Y,1,1,1,1,1,1,Usability,Y,1,1,1,1,1,1,Usability
+R02176,Y,1,1,1,1,1,1,Portability,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R02245,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,1,1,Reliability
+R02844,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,1,1,Performance efficiency
+R03547,Y,1,1,1,1,1,1,Reliability; Compatibility; Performance efficiency; Portability,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability; Performance efficiency
+R03724,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability; Usability
+R04273,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R04811,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability; Performance efficiency
+R05055,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R05151,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,1,1,Maintainability
+R05650,Y,1,1,1,1,1,1,Performance efficiency; Usability,Y,1,1,1,1,1,1,Performance efficiency; Usability
+R05759,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,1,1,Performance efficiency
+R06086,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R06658,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R06659,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R07098,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R07234,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R07348,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability; Performance efficiency
+R07416,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,0.5,1,Maintainability
+R07817,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability,Y,1,1,1,1,1,1,Reliability
+R07978,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,0.5,1,Reliability; Compatibility; Portability
+R08284,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R08513,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R08962,Y,1,1,1,1,1,1,Security; Performance efficiency,Y,1,1,1,1,0.5,1,Security; Performance efficiency
+R09421,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,0.5,1,Performance efficiency; Maintainability
+R09500,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R09651,Y,1,1,1,1,1,1,Reliability; Maintainability,Y,1,1,1,1,1,1,Reliability
+R09844,Y,1,1,1,1,0.5,1,Security,Y,1,1,1,1,0.5,1,Security; Maintainability
+R10113,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,0.5,1,Performance efficiency; Maintainability
+R10835,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R10849,Y,1,1,1,1,0.5,1,Usability,Y,1,1,1,1,0.5,1,Usability
+R10941,Y,1,1,1,1,1,1,Usability,Y,1,1,1,1,1,1,Reliability; Usability
+R11262,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R11420,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,1,1,Security; Performance efficiency
+R11459,Y,1,1,1,1,1,1,Functional suitability; Reliability,Y,1,1,1,1,1,1,Reliability
+R11468,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R11592,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability; Functional suitability
+R11955,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R12002,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,1,1,Performance efficiency; Maintainability
+R12327,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R12421,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R12438,Y,1,1,1,1,0.5,1,Security; Maintainability,Y,1,1,1,1,0.5,1,Security; Maintainability
+R12912,Y,1,1,1,1,0.5,1,Usability,Y,1,1,1,1,0.5,1,Usability
+R13200,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability; Performance efficiency
+R13669,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R13758,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,0.5,1,Reliability; Compatibility; Portability
+R14183,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,0.5,1,Maintainability
+R14277,Y,1,1,1,1,1,1,Reliability; Maintainability,Y,1,1,1,1,1,1,Reliability
+R14436,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R14528,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,0.5,1,Security; Reliability; Performance efficiency; Maintainability
+R14672,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,1,1,Reliability; Performance efficiency
+R14712,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R14757,Y,1,1,1,1,1,1,Functional suitability; Reliability,Y,1,1,1,1,1,1,Reliability; Performance efficiency
+R14804,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R14973,Y,1,1,1,1,1,1,Usability,Y,1,1,1,1,1,1,Usability
+R15310,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R15492,Y,1,1,1,1,0.5,1,Security,Y,1,1,1,1,1,1,Security
+R15505,Y,1,1,1,1,0.5,1,Security,Y,1,1,1,1,1,1,Security
+R15598,Y,1,1,1,1,1,1,Functional suitability,Y,1,1,1,1,1,1,Reliability; Performance efficiency; Functional suitability
+R15710,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,1,1,Performance efficiency; Maintainability
+R15740,Y,1,1,1,1,1,1,Performance efficiency; Reliability,Y,1,1,1,1,0.5,1,Reliability; Compatibility; Portability; Performance efficiency; Usability
+R16659,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R16976,Y,1,1,1,1,1,1,Performance efficiency,N,1,1,0.5,1,1,1,Performance efficiency
+R17058,Y,1,1,1,1,0.5,1,Security,Y,1,1,1,1,1,1,Security
+R17158,Y,1,1,1,1,0.5,1,Security,Y,1,1,1,1,0.5,1,Security
+R17615,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,0.5,1,Reliability
+R17732,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability,Y,1,1,1,1,1,1,Security; Reliability; Compatibility; Portability
+R17845,Y,1,1,1,1,1,1,Maintainability; Reliability,Y,1,1,1,1,1,1,Reliability; Usability
+R17901,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,0.5,1,Performance efficiency; Maintainability
+R18156,Y,1,1,1,1,1,1,Usability,Y,1,1,1,1,1,1,Reliability; Usability
+R18169,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,1,1,Security; Reliability; Performance efficiency
+R18184,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Compatibility; Portability
+R18648,Y,1,1,1,1,1,1,Performance efficiency; Reliability,Y,1,1,1,1,1,1,Security; Reliability; Performance efficiency; Functional suitability
+R18785,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,1,1,Performance efficiency
+R19195,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,0.5,1,Reliability; Performance efficiency
+R19497,Y,1,1,1,1,0.5,1,Security,Y,1,1,1,1,0.5,1,Security
+R19787,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R19881,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Security; Reliability
+R20026,Y,1,1,1,1,1,1,Reliability; Maintainability,Y,1,1,1,1,1,1,Reliability; Maintainability
+R20386,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security; Reliability; Maintainability
+R20488,Y,1,1,1,1,1,1,Usability,Y,1,1,1,1,1,1,Usability
+R20522,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,1,1,Usability; Maintainability
+R20731,Y,1,1,1,1,1,1,Reliability; Maintainability,Y,1,1,1,1,1,1,Reliability
+R20876,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability; Performance efficiency
+R21074,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R21164,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R21270,Y,1,1,1,1,1,1,Functional suitability,Y,1,1,1,1,1,1,Reliability; Functional suitability
+R21287,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,0.5,1,Performance efficiency; Maintainability
+R21623,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R21748,Y,1,1,1,1,1,1,Functional suitability; Reliability,Y,1,1,1,1,1,1,Reliability; Performance efficiency; Usability
+R21814,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R21828,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R21883,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability; Usability; Functional suitability
+R21938,Y,1,1,1,1,1,1,Portability; Reliability,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R22055,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability; Performance efficiency
+R22641,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R22858,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,0.5,1,Reliability; Performance efficiency
+R22898,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Security; Reliability; Performance efficiency; Usability
+R23194,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,1,1,Maintainability
+R23236,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R23333,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R23345,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R23366,Y,1,1,1,1,1,1,Functional suitability,Y,1,1,1,1,1,1,Reliability; Functional suitability
+R23566,Y,1,1,1,1,1,1,Security; Compatibility; Portability; Reliability,Y,1,1,1,1,1,1,Security; Reliability
+R23600,Y,1,1,1,1,1,1,Usability,Y,1,1,1,1,1,1,Reliability; Performance efficiency; Usability
+R23605,Y,1,1,1,1,1,1,Performance efficiency; Reliability,Y,1,1,1,1,1,1,Reliability; Performance efficiency
+R23821,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability; Performance efficiency
+R24184,Y,1,1,1,1,1,1,Reliability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R24229,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security; Reliability; Performance efficiency
+R24259,Y,1,1,1,1,1,1,Reliability; Maintainability,Y,1,1,1,1,1,1,Reliability
+R24406,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R24632,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,1,1,Performance efficiency
+R24681,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,0.5,1,Reliability; Compatibility; Portability
+R24813,Y,1,1,1,1,1,1,Reliability; Security,Y,1,1,1,1,1,1,Security; Reliability
+R24820,Y,1,1,1,1,1,1,Functional suitability; Reliability,Y,1,1,1,1,1,1,Reliability
+R25095,Y,1,1,1,1,0.5,1,Performance efficiency; Maintainability,Y,1,1,1,1,0.5,1,Reliability; Performance efficiency; Maintainability
+R25270,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability; Performance efficiency
+R25281,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R25521,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R25546,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,0.5,1,Performance efficiency; Maintainability
+R25684,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R25826,Y,1,1,1,1,1,1,Portability; Compatibility; Maintainability,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R25859,Y,1,1,1,1,1,1,Reliability; Functional suitability,Y,1,1,1,1,1,1,Reliability; Functional suitability
+R25933,Y,1,1,1,1,1,1,Functional suitability,Y,1,1,1,1,1,1,Reliability; Functional suitability
+R25934,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R26952,Y,1,1,1,1,1,1,Reliability; Maintainability,Y,1,1,1,1,1,1,Reliability
+R27501,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,0.5,1,Security
+R27583,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,0.5,1,Security
+R27804,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Security; Reliability
+R28368,Y,1,1,1,1,0.5,1,Security,Y,1,1,1,1,1,1,Security
+R28408,Y,1,1,1,1,1,1,Functional suitability,Y,1,1,1,1,1,1,Security; Reliability; Usability; Functional suitability
+R28410,Y,1,1,1,1,1,1,Usability,Y,1,1,1,1,1,1,Usability
+R29339,Y,1,1,1,1,1,1,Functional suitability,Y,1,1,1,1,1,1,Reliability
+R29528,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R29669,Y,1,1,1,1,0.5,1,Maintainability,Y,1,1,1,1,1,1,Maintainability
+R29957,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability; Functional suitability
+R30292,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,0.5,1,Performance efficiency; Maintainability
+R30956,Y,1,1,1,1,1,1,Performance efficiency,Y,1,1,1,1,1,1,Performance efficiency
+R31075,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability
+R31195,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R31277,Y,1,1,1,1,1,1,Usability,Y,1,1,1,1,1,1,Usability
+R31360,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,1,1,Security
+R31368,Y,1,1,1,1,0.5,1,Security,Y,1,1,1,1,1,1,Security
+R31511,Y,1,1,1,1,0.5,1,Security,Y,1,1,1,1,1,1,Security; Compatibility; Portability
+R31559,Y,1,1,1,1,1,1,Functional suitability; Reliability,Y,1,1,1,1,1,1,Reliability; Maintainability; Functional suitability
+R31656,Y,1,1,1,1,1,1,Reliability; Maintainability,Y,1,1,1,1,1,1,Reliability
+R32063,Y,1,1,1,1,1,1,Maintainability,Y,1,1,1,1,0.5,1,Performance efficiency; Maintainability
+R32677,Y,1,1,1,1,1,1,Portability; Compatibility,Y,1,1,1,1,1,1,Reliability; Compatibility; Portability
+R32745,Y,1,1,1,1,0.5,1,Security; Reliability,Y,1,1,1,1,1,1,Security; Reliability
+R33485,Y,1,1,1,1,1,1,Usability,Y,1,1,1,1,1,1,Reliability; Usability
+R33696,Y,1,1,1,1,1,1,Security,Y,1,1,1,1,0.5,1,Security
+R33729,Y,1,1,1,1,1,1,Reliability,Y,1,1,1,1,1,1,Reliability; Usability
+S03,Y,1,1,1,1,1,1,Usability,Y,1,1,1,1,1,1,Reliability; Usability

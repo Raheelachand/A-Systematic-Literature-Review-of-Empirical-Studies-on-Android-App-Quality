@@ -1,0 +1,103 @@
+record_id,r1_primary_characteristic,r2_primary_characteristic,r1_theme,r2_theme
+R00207,Functional suitability,Functional suitability,Empirical evaluation of testing tools and practices,Empirical evaluation of testing tools and practices
+R00709,Security,Security,Privacy and permission compliance,Privacy and permission compliance
+R01392,Reliability,Reliability,"Test-suite reliability (mutation, flakiness)","Test-suite reliability (mutation, flakiness)"
+R01469,Reliability,Reliability,"Crash detection, analysis and characterisation","Crash detection, analysis and characterisation"
+R01659,Functional suitability,Reliability,Automated GUI test generation and exploration,"Crash detection, analysis and characterisation"
+R02245,Reliability,Reliability,Failure prediction from reviews and warnings,Failure prediction from reviews and warnings
+R02322,Functional suitability,Functional suitability,"Context-aware testing (permissions, settings)","Context-aware testing (permissions, settings)"
+R03386,Performance efficiency,Performance efficiency,Energy efficiency,Energy efficiency
+R03582,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R03772,Security,Security,Inter-component communication (ICC) vulnerabilities,Inter-component communication (ICC) vulnerabilities
+R04273,Compatibility,Compatibility,API evolution and compatibility issue detection,API evolution and compatibility issue detection
+R04306,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R04383,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R05650,Performance efficiency,Performance efficiency,Energy efficiency,Energy efficiency
+R05715,Security,Security,Inter-component communication (ICC) vulnerabilities,Inter-component communication (ICC) vulnerabilities
+R07416,Maintainability,Maintainability,Code smells and refactoring,Code smells and refactoring
+R07422,Maintainability,Maintainability,"Language and practice adoption (Kotlin, CI/CD)","Language and practice adoption (Kotlin, CI/CD)"
+R07606,Functional suitability,Reliability,Empirical evaluation of testing tools and practices,"Test-suite reliability (mutation, flakiness)"
+R08452,Functional suitability,Maintainability,Empirical evaluation of testing tools and practices,Test-script maintenance and repair
+R10380,Security,Security,Inter-component communication (ICC) vulnerabilities,Inter-component communication (ICC) vulnerabilities
+R10835,Compatibility,Compatibility,API evolution and compatibility issue detection,API evolution and compatibility issue detection
+R10920,Security,Security,Privacy and permission compliance,Privacy and permission compliance
+R11010,Functional suitability,Functional suitability,Empirical evaluation of testing tools and practices,Empirical evaluation of testing tools and practices
+R11468,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R11592,Reliability,Reliability,State loss and resource leaks,State loss and resource leaks
+R11955,Reliability,Functional suitability,"Crash detection, analysis and characterisation",Automated GUI test generation and exploration
+R12005,Performance efficiency,Performance efficiency,Energy efficiency,Energy efficiency
+R13200,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R13322,Security,Security,Inter-component communication (ICC) vulnerabilities,Inter-component communication (ICC) vulnerabilities
+R14183,Maintainability,Maintainability,Code smells and refactoring,Code smells and refactoring
+R14277,Reliability,Reliability,"Crash detection, analysis and characterisation","Crash detection, analysis and characterisation"
+R14416,Security,Security,Privacy and permission compliance,Privacy and permission compliance
+R14436,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R14528,Maintainability,Maintainability,Code smells and refactoring,Code smells and refactoring
+R14712,Reliability,Reliability,"Crash detection, analysis and characterisation","Crash detection, analysis and characterisation"
+R14804,Compatibility,Compatibility,Configuration-induced compatibility issues,Configuration-induced compatibility issues
+R14868,Functional suitability,Functional suitability,Empirical evaluation of testing tools and practices,Empirical evaluation of testing tools and practices
+R14973,Usability,Usability,Accessibility detection and repair,Accessibility detection and repair
+R15310,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R15542,Portability,Portability,Cross-device visual GUI testing,Cross-device visual GUI testing
+R15565,Security,Security,Inter-component communication (ICC) vulnerabilities,Inter-component communication (ICC) vulnerabilities
+R15566,Reliability,Reliability,"Test-suite reliability (mutation, flakiness)","Test-suite reliability (mutation, flakiness)"
+R15621,Maintainability,Maintainability,Test-script maintenance and repair,Test-script maintenance and repair
+R15747,Maintainability,Maintainability,Test-script maintenance and repair,Other (explain in Comment)
+R17125,Maintainability,Maintainability,Test-script maintenance and repair,Test-script maintenance and repair
+R17155,Reliability,Functional suitability,"Crash detection, analysis and characterisation","Context-aware testing (permissions, settings)"
+R17615,Reliability,Reliability,Failure prediction from reviews and warnings,Failure prediction from reviews and warnings
+R18169,Reliability,Reliability,State loss and resource leaks,State loss and resource leaks
+R18184,Compatibility,Compatibility,API evolution and compatibility issue detection,API evolution and compatibility issue detection
+R18493,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R18648,Reliability,Reliability,State loss and resource leaks,State loss and resource leaks
+R19881,Reliability,Functional suitability,"Crash detection, analysis and characterisation","Context-aware testing (permissions, settings)"
+R20026,Reliability,Reliability,Crash reproduction,Crash reproduction
+R20030,Security,Security,Code and library vulnerability detection and repair,Code and library vulnerability detection and repair
+R20522,Usability,Functional suitability,Usability evaluation and user-facing feedback,Bug-report reproduction and change-focused testing
+R21074,Security,Security,Inter-component communication (ICC) vulnerabilities,Inter-component communication (ICC) vulnerabilities
+R21552,Security,Security,Inter-component communication (ICC) vulnerabilities,Inter-component communication (ICC) vulnerabilities
+R21623,Reliability,Reliability,Crash reproduction,Crash reproduction
+R21814,Compatibility,Compatibility,API evolution and compatibility issue detection,API evolution and compatibility issue detection
+R21828,Compatibility,Compatibility,Configuration-induced compatibility issues,Configuration-induced compatibility issues
+R21883,Reliability,Reliability,State loss and resource leaks,State loss and resource leaks
+R21938,Compatibility,Compatibility,Dynamic feature delivery,Dynamic feature delivery
+R22615,Usability,Usability,Usability evaluation and user-facing feedback,Usability evaluation and user-facing feedback
+R22874,Security,Security,Code and library vulnerability detection and repair,Code and library vulnerability detection and repair
+R23036,Compatibility,Compatibility,API evolution and compatibility issue detection,API evolution and compatibility issue detection
+R23333,Security,Security,Code and library vulnerability detection and repair,Code and library vulnerability detection and repair
+R23345,Functional suitability,Functional suitability,"Context-aware testing (permissions, settings)","Context-aware testing (permissions, settings)"
+R23366,Functional suitability,Functional suitability,Functional correctness of data operations,Functional correctness of data operations
+R23605,Performance efficiency,Performance efficiency,Non-functional test generation,Non-functional test generation
+R24184,Reliability,Functional suitability,"Crash detection, analysis and characterisation",Automated GUI test generation and exploration
+R24406,Security,Security,Inter-component communication (ICC) vulnerabilities,Inter-component communication (ICC) vulnerabilities
+R24471,Security,Security,Code and library vulnerability detection and repair,Code and library vulnerability detection and repair
+R24627,Performance efficiency,Performance efficiency,Resource use and refactoring,Resource use and refactoring
+R25272,Security,Security,Code and library vulnerability detection and repair,Code and library vulnerability detection and repair
+R25521,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R25684,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R25826,Compatibility,Compatibility,API evolution and compatibility issue detection,API evolution and compatibility issue detection
+R25859,Functional suitability,Reliability,Bug-report reproduction and change-focused testing,Crash reproduction
+R25934,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R26848,Reliability,Reliability,"Test-suite reliability (mutation, flakiness)","Test-suite reliability (mutation, flakiness)"
+R27550,Security,Security,Code and library vulnerability detection and repair,Code and library vulnerability detection and repair
+R28368,Security,Security,Privacy and permission compliance,Privacy and permission compliance
+R28654,Security,Security,Code and library vulnerability detection and repair,Privacy and permission compliance
+R29524,Functional suitability,Functional suitability,Bug-report reproduction and change-focused testing,Bug-report reproduction and change-focused testing
+R29528,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R29669,Maintainability,Maintainability,"Language and practice adoption (Kotlin, CI/CD)","Language and practice adoption (Kotlin, CI/CD)"
+R29754,Reliability,Reliability,"Test-suite reliability (mutation, flakiness)","Test-suite reliability (mutation, flakiness)"
+R31075,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+R31277,Usability,Usability,Accessibility detection and repair,Accessibility detection and repair
+R31677,Maintainability,Maintainability,"Language and practice adoption (Kotlin, CI/CD)","Language and practice adoption (Kotlin, CI/CD)"
+R31921,Usability,Usability,Accessibility detection and repair,Accessibility detection and repair
+R31923,Compatibility,Compatibility,API evolution and compatibility issue detection,API evolution and compatibility issue detection
+R32063,Performance efficiency,Maintainability,Resource use and refactoring,Code smells and refactoring
+R32461,Security,Security,Code and library vulnerability detection and repair,Code and library vulnerability detection and repair
+R32628,Security,Security,Ecosystem-level attack surface,Ecosystem-level attack surface
+R32677,Compatibility,Compatibility,Configuration-induced compatibility issues,Configuration-induced compatibility issues
+R32745,Security,Security,Ecosystem-level attack surface,Ecosystem-level attack surface
+R32978,Security,Security,Network communication security,Network communication security
+R33116,Security,Security,Privacy and permission compliance,Privacy and permission compliance
+R33729,Functional suitability,Functional suitability,Automated GUI test generation and exploration,Automated GUI test generation and exploration
+S01,Usability,Usability,Accessibility detection and repair,Accessibility detection and repair
+S03,Usability,Usability,Accessibility detection and repair,Accessibility detection and repair
