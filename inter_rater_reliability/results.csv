@@ -1,0 +1,20 @@
+Stage,Measure,n,Observed agreement (%),Statistic,Value
+Screening (sample),Include/exclude decision,400,77.0,Cohen's kappa,0.52
+Full text and quality (sample),Final decision,48,77.1,Cohen's kappa,0.53
+Classification within pairs (initial sample),Primary ISO/IEC 25010 characteristic,102,90.2,Cohen's kappa,0.88
+Cross-pair re-check,Include decision,159,98.7,Gwet's AC1,0.99
+Cross-pair re-check,QAC1,159,100.0,Gwet's AC1,1.0
+Cross-pair re-check,QAC2,159,100.0,Gwet's AC1,1.0
+Cross-pair re-check,QAC3,159,99.4,Gwet's AC1,0.99
+Cross-pair re-check,QAC4,159,100.0,Gwet's AC1,1.0
+Cross-pair re-check,QAC5,159,80.5,Gwet's AC1,0.74
+Cross-pair re-check,QAC6,159,99.4,Gwet's AC1,0.99
+Cross-pair re-check (ISO/IEC 25010),Functional suitability,159,94.3,Cohen's kappa,0.58
+Cross-pair re-check (ISO/IEC 25010),Performance efficiency,159,86.2,Cohen's kappa,0.57
+Cross-pair re-check (ISO/IEC 25010),Compatibility,159,96.2,Cohen's kappa,0.85
+Cross-pair re-check (ISO/IEC 25010),Usability,159,93.7,Cohen's kappa,0.69
+Cross-pair re-check (ISO/IEC 25010),Reliability,159,77.4,Cohen's kappa,0.57
+Cross-pair re-check (ISO/IEC 25010),Security,159,94.3,Cohen's kappa,0.84
+Cross-pair re-check (ISO/IEC 25010),Maintainability,159,89.9,Cohen's kappa,0.62
+Cross-pair re-check (ISO/IEC 25010),Portability,159,96.9,Cohen's kappa,0.88
+Cross-pair re-check (ISO/IEC 25010),Overall (all characteristics),1272,91.1,Cohen's kappa,0.72
